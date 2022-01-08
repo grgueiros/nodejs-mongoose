@@ -1,0 +1,11 @@
+{
+  "urls": [
+    "/api",
+    "/api/auth/register",
+    "/api/auth/login",
+    "/api/parties/all"
+  ],
+  "regex" : [
+    "/api/parties/details/[a-z0-9]"
+  ]
+}
